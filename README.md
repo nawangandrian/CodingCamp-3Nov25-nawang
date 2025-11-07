@@ -7,7 +7,7 @@ Selamat datang di repositori untuk proyek mini pembuatan Website Profil, bagian 
 | Deskripsi | Tautan |
 | :--- | :--- |
 | **Repositori GitHub** | https://github.com/nawangandrian/CodingCamp-3Nov25-nawang |
-| **Situs Web (GitHub Pages)** | [Masukkan URL Website yang sudah di-Publish di sini] |
+| **Situs Web (GitHub Pages)** | https://nawangandrian.github.io/CodingCamp-3Nov25-nawang |
 
 ---
 
@@ -19,7 +19,6 @@ Situs web ini dikembangkan untuk memenuhi semua persyaratan yang ditentukan, den
 * **Halaman Profil ("Our Profile"):** Halaman kustom dengan desain kreatif, mencakup:
     * Foto Banner
     * Informasi Tentang Profil
-    * Visi dan Misi Perusahaan
 * **Formulir "Message Us" yang Divalidasi:** Formulir kontak dengan validasi **JavaScript** untuk bidang **Nama**, **Email**, dan **Pesan**.
 * **Tampilan Hasil Formulir:** Setelah pengiriman formulir yang valid, nilai input akan **ditampilkan** langsung di halaman HTML.
 * **Desain Responsif:** Implementasi tata letak yang **responsif** penuh, memastikan tampilan yang optimal di perangkat **Desktop** dan **Mobile**.
@@ -41,7 +40,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah di bawah ini:
 
 1.  **Clone Repositori:**
     ```bash
-    git clone [Masukkan URL Repositori Anda di sini]
+    git clone https://github.com/nawangandrian/CodingCamp-3Nov25-nawang
     ```
 2.  **Masuk ke Direktori Proyek:**
     ```bash
