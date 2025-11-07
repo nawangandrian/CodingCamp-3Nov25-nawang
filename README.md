@@ -1,8 +1,8 @@
-# 🏢 Nawang Alan Andrian - Website Profil
+# Nawang Alan Andrian - Website Profil
 
 Selamat datang di repositori untuk proyek mini pembuatan Website Profil, bagian dari pelatihan Coding Camp. Proyek ini bertujuan untuk mempraktikkan keterampilan dasar Software Engineer, mulai dari *slicing* desain, implementasi responsif, hingga validasi formulir menggunakan JavaScript.
 
-## 🔗 Tautan Proyek
+## Tautan Proyek
 
 | Deskripsi | Tautan |
 | :--- | :--- |
@@ -11,7 +11,7 @@ Selamat datang di repositori untuk proyek mini pembuatan Website Profil, bagian 
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 Situs web ini dikembangkan untuk memenuhi semua persyaratan yang ditentukan, dengan fokus pada pengalaman pengguna yang bersih dan fungsionalitas formulir yang valid.
 
@@ -26,7 +26,7 @@ Situs web ini dikembangkan untuk memenuhi semua persyaratan yang ditentukan, den
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * **HTML5:** Struktur dasar halaman web.
 * **CSS3:** Styling, tata letak, dan implementasi desain responsif.
@@ -34,7 +34,7 @@ Situs web ini dikembangkan untuk memenuhi semua persyaratan yang ditentukan, den
 
 ---
 
-## 💡 Instalasi dan Cara Menjalankan
+## Instalasi dan Cara Menjalankan
 
 Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah di bawah ini:
 
@@ -52,7 +52,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah di bawah ini:
 
 ---
 
-## 👤 Pengembang
+## Pengembang
 
 Proyek ini diselesaikan sebagai tugas individu oleh:
 
